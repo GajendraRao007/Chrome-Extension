@@ -46,6 +46,23 @@ button:hover{
     box-shadow: 0 10px 10px 0 #FF1E1E,0 17px 50px 0 #FF1E1E;
 }
 
+
+
+.btn2{
+    background-color: #FDFF00;
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    font-weight: bold;
+    font-family: 'Unbounded', cursive;
+    box-shadow:  10px 10px 0 rgb(0, 0, 0),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.btn2:hover{
+    box-shadow: 0 10px 10px 0 #FDFF00,0 17px 50px 0 #FDFF00;
+}
+
+
+
 ul {
     margin-top: 20px;
     list-style: none;
